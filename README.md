@@ -1,17 +1,13 @@
 # memory-game
-CSIS10A Final Project-- memory game
+CSIS10A Final Project-- wordle
 
-The point of this game is to match each card to its pair as fast as possible. 
+The point of this game is to guess the 5 letter secret word in 6 or fewer trys. 
 
-Memory Game
+Wordle:
 
--[ ] Version 1: Cards place themselves randomly about the grid. Player is shown a 5X5 grid of cards, face down.
+Try to guess the mystery word within 6 guesses! If you guess the correct letter but it isn't in the right spot, a * will appear. If you guess the correct letter and it is in the right spot, a @ will appear. If you guess a letter that is not in the word a X will appear. 
 
--[ ] Version 2: Player clicks on two cards at a time, revealing the image underneath, and flips back upside down.
+Good luck!
 
--[ ] Version 3: A test is run to check if the cards selected are a match. 
 
--[ ] Version 4: If they are a match, the selected cards remain facing up. This continues until all cards have been matched.
-
--[ ] Version 5: Timer is added to the game, so different people can play and compete for the fastest time.
 
